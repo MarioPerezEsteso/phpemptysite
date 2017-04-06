@@ -1,3 +1,3 @@
 <?php
-// Just a comment
+// Just a comment in a file
 ?>
